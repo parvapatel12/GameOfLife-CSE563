@@ -14,4 +14,4 @@ Steps:
 4. You can control the speed of frames with the help of slider provided.
 5. Click the reset button to reset the game back to its original state i.e. all the cells dead.
 
-Thank you for checking out this fun game. We hope you like our little effor to entertain you.
+Thank you for checking out this fun game. We hope you like our little effort to entertain you.
